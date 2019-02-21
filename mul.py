@@ -10,7 +10,7 @@ def mul(a,b):
 
 def div(a,b):
 	print(a//b)	
-a,b = 18,4
+a,b = 18,6
 add(a,b)
 sub(a,b)
 mul(a,b)
