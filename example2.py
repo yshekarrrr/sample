@@ -10,8 +10,8 @@ def mul(a,b):
 def div(a,b):
     print("The Div is %d" % (a // b))
 
-a = int(input("Please enter the value of 'a' :"))
-b = int(input("Please enter the value of 'b' :"))
+a = int(input("please enter the value of 'a' :"))
+b = int(input("please enter the value of 'b' :"))
 add(a,b)
 sub(a,b)
 mul(a,b)
